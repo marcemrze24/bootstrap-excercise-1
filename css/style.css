@@ -1,0 +1,16 @@
+
+.bgColorFooter {
+  background-color: #141418;
+}
+.bgColorHeader {
+  background-color: #23232e;
+}
+.bgColorMain {
+  background-color: #060210;
+}
+.textMainColor {
+  color: white;
+}
+a {
+  text-decoration: none;
+}
